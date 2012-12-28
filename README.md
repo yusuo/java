@@ -1,4 +1,4 @@
-java: This project is restricted.
+This project is for java.
 ====
 
 java
