@@ -1,4 +1,4 @@
-This project is for java.
+This project is based on java.
 ====
 
 java
